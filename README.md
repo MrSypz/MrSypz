@@ -1,4 +1,4 @@
-จ๊ะเอ๋ ตัวเอง 👋
+Hello Internet! 👋
 
 <!--
 **MrSypz/MrSypz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
