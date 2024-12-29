@@ -1,6 +1,6 @@
 Hello Internet! 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSypz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSypz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSypz&show_icons=true&theme=radical)
 
